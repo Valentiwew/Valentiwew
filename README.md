@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Valentiwew
+- 😄 **Pronouns**: She/Her
+- 📫 **Age**: 19 years old
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 Age: 19 years old
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
