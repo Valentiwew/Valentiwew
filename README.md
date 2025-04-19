@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Valentiwew
 - 😄 **Pronouns**: She/Her
 - 🌺 **Age**: 19 years old
-- 👀 I’m interested in ...
-- 🌱 I'm currently learning ...
-- 🍒 **Fun fact**: I like strawberry cakes :)
+- 👀 I'm interested in Cyber Security
+- 🌱 I'm currently learning AWS
+- 🍒 **Fun fact**:  I like strawberry cakes and I love Chiikawa :)
 
 <!---
 Valentiwew/Valentiwew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
