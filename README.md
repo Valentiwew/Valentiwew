@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valentiwew
 - 😄 **Pronouns**: She/Her
-- 🌺 **Age**: 19 years old
+- 🌺 **Age**: 20 years old
 - 👀 I'm interested in Cyber Security
 - 🌱 I'm currently learning AWS
 - 🍒 **Fun fact**:  I like strawberry cakes and I love Chiikawa :)
